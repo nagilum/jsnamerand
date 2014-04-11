@@ -3,6 +3,8 @@
 Contains a list of 2000 male and female names, and functionality to fetch
 single and multiple names.
 
+Available in both devlopment version and minified.
+
 2 functions available:
 
 ```js
